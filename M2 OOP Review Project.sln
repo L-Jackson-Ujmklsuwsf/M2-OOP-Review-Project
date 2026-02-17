@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "M2 OOP Review Project", "M2 OOP Review Project\M2 OOP Review Project.pyproj", "{71044E37-223F-4B82-86FA-E2719CF78080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71044E37-223F-4B82-86FA-E2719CF78080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71044E37-223F-4B82-86FA-E2719CF78080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41D80EAB-1383-4CD6-8F03-DCA79569E74F}
+	EndGlobalSection
+EndGlobal
