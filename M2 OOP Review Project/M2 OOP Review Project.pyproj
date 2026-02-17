@@ -21,6 +21,8 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ParkingTickets.py" />
+    <Compile Include="ParkingMeter.py" />
     <Compile Include="IfCarIsParked.py" />
     <Compile Include="M2_OOP_Review_Project.py" />
   </ItemGroup>
